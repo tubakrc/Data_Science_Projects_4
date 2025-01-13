@@ -5,7 +5,9 @@
 * The insights provide a deeper understanding of user preferences, engagement patterns, and regional variations in New Year's resolutions.
 
 # Dataset Information
-I used the New Year's Resolutions Dataset from Kaggle (https://www.kaggle.com/datasets/andrewmvd/new-years-resolutions/data), featuring:
+I used the New Year's Resolutions Dataset from Kaggle, featuring: 
+
+(https://www.kaggle.com/datasets/andrewmvd/new-years-resolutions/data)
 
 * 5,002 tweets about New Year's resolutions.
 
