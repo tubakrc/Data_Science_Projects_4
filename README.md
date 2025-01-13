@@ -1,10 +1,10 @@
-# Twitter Resolution Analysis
+# 🕊️ Twitter Resolution Analysis
 
 * This project analyzes tweets to explore sentiment, resolution popularity, and trends based on user activity, geography, and demographics.
    
 * The insights provide a deeper understanding of user preferences, engagement patterns, and regional variations in New Year's resolutions.
 
-# Dataset Information
+# 🖥️ Dataset Information
 I used the New Year's Resolutions Dataset from Kaggle, featuring: 
 
 (https://www.kaggle.com/datasets/andrewmvd/new-years-resolutions/data)
@@ -13,7 +13,7 @@ I used the New Year's Resolutions Dataset from Kaggle, featuring:
 
 * Rich insights to help uncover trends and improve goal-setting success.
 
-# Key Features
+# 🎯 Key Features
 
 * ***Sentiment Analysis:*** Understand emotional responses to resolutions.
 * ***Geographic Insights:*** Visualize resolution popularity and activity by state and region.
