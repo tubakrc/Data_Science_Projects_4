@@ -23,6 +23,6 @@ I used the New Year's Resolutions Dataset from Kaggle, featuring:
 
 # 🌎 Geographic Insights
 
-* [Tweet Activity Map](https://tubakrc.github.io/Data_Science_Projects_4/tweet_activity_map.html)
+[Tweet Activity Map](https://tubakrc.github.io/Data_Science_Projects_4/tweet_activity_map.html)
   
-* [Resolution Heatmap](https://tubakrc.github.io/Data_Science_Projects_4/resolution_heatmap.html)
+[Resolution Heatmap](https://tubakrc.github.io/Data_Science_Projects_4/resolution_heatmap.html)
