@@ -20,3 +20,9 @@ I used the New Year's Resolutions Dataset from Kaggle, featuring:
 * ***Temporal Patterns:*** Explore trends in tweet activity over time.
 * ***Engagement Metrics:*** Identify the most retweeted resolutions to assess user interest and virality.
 * ***Textual Analysis:*** Perform topic modeling and clustering for thematic exploration.
+
+# 🌎 Geographic Insights
+
+* [Tweet Activity Map](https://tubakrc.github.io/Data_Science_Projects_4/tweet_activity_map.html)
+  
+* [Resolution Heatmap](https://tubakrc.github.io/Data_Science_Projects_4/resolution_heatmap.html)
